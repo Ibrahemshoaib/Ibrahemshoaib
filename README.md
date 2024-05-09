@@ -5,8 +5,8 @@
 - 💡 Passionate about test automation, quality assurance, and continuous improvement
 - 🚀 Currently exploring new testing frameworks and tools
 - 📫 Reach me on:
-  - LinkedIn:https://www.linkedin.com/in/ibrahimshoaib/
-  - Twitter : https://twitter.com/ibrahimSho3eb
+  - LinkedIn: https://www.linkedin.com/in/ibrahimshoaib/
+  - Twitter: https://twitter.com/ibrahimSho3eb
 
 
 
